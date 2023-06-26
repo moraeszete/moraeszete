@@ -1,5 +1,5 @@
-### Olá! Me chamo Lucas Moraes 
-Estou estudando Javascript
+### Hi there! I'm Lucas Moraes 
+Trying to study new languages always been open minded. 
 ##
 <div class="box-info">
     <a href="https://github.com/moraeszete">
