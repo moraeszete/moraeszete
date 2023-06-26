@@ -1,5 +1,5 @@
 ### Hi there! I'm Lucas Moraes 
-Trying to study new languages always been open minded. 
+Studying ways to became a good dev. 
 ##
 <div class="box-info">
     <a href="https://github.com/moraeszete">
@@ -7,6 +7,7 @@ Trying to study new languages always been open minded.
     <img justify-itens="flex" height="155em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeszete&layout=compact&theme=ocean_dark&langs_count=8">
 </div>
 Aqui estão alguns meios de me contatar, estou diponível para conversar: 
+There some ways u can talk to me: 
 <div>
   <a align="center" href="https://twitter.com/Moraes_LSM"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   <a align="center" href="mailto:lucas.moraes24536@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
