@@ -6,6 +6,8 @@ Studying ways to became a good dev.
   <a href="https://github.com/moraeszete">
   <img justify-itens="flex" height="165em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeszete&layout=compact&theme=ocean_dark&langs_count=8">
 </div>
+    
+- This reflects some of my studies and projects that i`ve made for fun (or to be usefull)
 
 ## Socials:
 <div>
