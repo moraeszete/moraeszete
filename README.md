@@ -4,7 +4,7 @@ Studying ways to became a good dev.
 ##
 <div class="box-info">
   <a href="https://github.com/moraeszete">
-  <img justify-itens="flex" height="165em"  src="https://github-readme-stats-moraeszete.vercel.app/api/top-langs/?username=moraeszete&layout=compact&theme=ocean_dark&langs_count=8">
+  <img justify-itens="flex" height="165em"  src="https://readme-vercel-jet.vercel.app/api/top-langs/?username=moraeszete&layout=compact&theme=ocean_dark&langs_count=8">
 </div>
     
 - This reflects some of my studies and projects that i`ve made for fun (or to be usefull)
