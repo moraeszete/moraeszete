@@ -29,6 +29,5 @@ Studying ways to became a good dev.
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-%413670FF.svg?style=for-the-badge&logo=prisma&logoColor=white)
-![Hostinger](https://img.shields.io/badge/hostinger-%673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=purple)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
