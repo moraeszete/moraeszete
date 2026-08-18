@@ -6,7 +6,7 @@ Studying ways to became a good dev.
 
 ![TOP LANGUAGES](https://readme-vercel-jet.vercel.app/api/?username=moraeszete&show_icons=true&layout=compact&theme=ocean_dark)
 
-- This reflects some of my studies and projects that i`ve made for fun (or to be usefull)
+- This reflects some of my studies and projects that i`ve made.
 
 ## Socials:
 <div>
